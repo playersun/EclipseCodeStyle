@@ -11,6 +11,7 @@
 [myeclipse-java-code-style_CleanUp.xml](https://github.com/playersun/EclipseCodeStyle/blob/master/myeclipse-java-code-style_CleanUp.xml)
 
 [myeclipse-java-code-style_CodeTemplate.xml](https://github.com/playersun/EclipseCodeStyle/blob/master/myeclipse-java-code-style_CodeTemplate.xml)
+注意：Code --> Comments --> types 和 Code --> New Java files中 @author 请改为自己
 
 [myeclipse-java-code-style_Formatter.xml](https://github.com/playersun/EclipseCodeStyle/blob/master/myeclipse-java-code-style_Formatter.xml)
 
